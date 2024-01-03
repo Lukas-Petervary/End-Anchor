@@ -1,5 +1,5 @@
 # End-Anchor
-Single block mod inspired by <a href="https://www.youtube.com/watch?v=L1i4izl25V4">Kenadian</a>
+Single block Fabric 1.20.4 mod inspired by <a href="https://www.youtube.com/watch?v=L1i4izl25V4">Kenadian</a>
 
 <p>I'm lazy and bad at art so I just used the respawn anchor textures, but if you have a better alternative please please PLEASE hit me up and I can release it with **<em>aesthetics**</em></p>
 
