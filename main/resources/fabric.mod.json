@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "endanchor",
+  "version": "${version}",
+  "name": "EndAnchor",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/DingDingWasTaken/EndAnchor"
+  },
+  "license": "unlicense",
+  "icon": "assets/endanchor/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "dingding.endanchor.client.EndAnchorClient"
+    ],
+    "main": [
+      "dingding.endanchor.EndAnchor"
+    ]
+  },
+  "mixins": [
+    "endanchor.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
